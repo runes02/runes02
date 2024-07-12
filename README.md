@@ -1,5 +1,5 @@
 <p align="center">
-    <h3><b><i>welcome to my page!</i></b></h3>
+    <b><i>welcome to my page!</i></b>
 </p>
 
 <p align="center">
